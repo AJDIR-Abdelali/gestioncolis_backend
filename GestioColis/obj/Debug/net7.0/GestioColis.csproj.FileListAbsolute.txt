@@ -1,0 +1,109 @@
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\appsettings.json
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.exe
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.deps.json
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.runtimeconfig.json
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.dll
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.pdb
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.csproj.AssemblyReference.cache
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.AssemblyInfoInputs.cache
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.AssemblyInfo.cs
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.csproj.CoreCompileInputs.cache
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets\msbuild.GestioColis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets\msbuild.build.GestioColis.props
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GestioColis.props
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GestioColis.props
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\scopedcss\bundle\GestioColis.styles.css
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.csproj.CopyComplete
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.dll
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\refint\GestioColis.dll
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.pdb
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.genruntimeconfig.cache
+C:\Users\moi\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\ref\GestioColis.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\appsettings.Development.json
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\appsettings.json
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.exe
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.deps.json
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.runtimeconfig.json
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\GestioColis.pdb
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Azure.Core.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Azure.Identity.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Humanizer.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\System.CodeDom.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.csproj.AssemblyReference.cache
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.AssemblyInfoInputs.cache
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.AssemblyInfo.cs
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.csproj.CoreCompileInputs.cache
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.MvcApplicationPartsAssemblyInfo.cs
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.MvcApplicationPartsAssemblyInfo.cache
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets\msbuild.GestioColis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets\msbuild.build.GestioColis.props
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GestioColis.props
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GestioColis.props
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets.build.json
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\staticwebassets.development.json
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\scopedcss\bundle\GestioColis.styles.css
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.csproj.CopyComplete
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\refint\GestioColis.dll
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.pdb
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\GestioColis.genruntimeconfig.cache
+C:\Dyna Info Projects\GestionColis\gestioncolis_backend\GestioColis\obj\Debug\net7.0\ref\GestioColis.dll
